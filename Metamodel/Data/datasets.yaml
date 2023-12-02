@@ -1,5 +1,6 @@
 datasets:
-  #
+
+  # Тестовая история
   ApplicationDataObjects.dataset.ListOfApplicationDataObjects:
     source: >
       (
